@@ -5,6 +5,7 @@ namespace MyProgram
     {
         Red,
         Blue,
-        Green
+        Green,
+        Orange
     }
 }
